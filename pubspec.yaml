@@ -12,7 +12,7 @@ environment:
 dependencies:
   analyzer: ^7.3.0
   basic_utils: ^5.8.2
-  intl: ^0.19.0
+  intl: ^0.20.2
   mailer: ^6.4.1
   meta: ^1.10.0
   mysql1: ^0.20.0
