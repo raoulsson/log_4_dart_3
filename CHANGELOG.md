@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.2 - 2025-03-29
+
+- Downgraded intl: ^0.19.0
+
 ## 3.0.1 - 2025-03-29
 
 - Upgraded intl to: ^0.20.2
